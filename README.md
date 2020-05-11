@@ -3,7 +3,7 @@ TrageGo Inventory Management App is made by Android Studio, FireBase and REST AP
 System basically provides the daily needs products and other household products which user can see and purchase it.
 
 # Installation
-Use Android Studio and Clone the project from https://github.com/krishna97p/Organ-Donation-App.git then Install the Amazon-app. Minimum SDK API supported is 18 and Maximum is 28.
+Use Android Studio and Clone the project from https://github.com/krishna97p/AmazonApp.git then Install the Amazon-app. Minimum SDK API supported is 18 and Maximum is 28.
 
 # Usage
     implementation 'com.android.support:design:28.0.0'
