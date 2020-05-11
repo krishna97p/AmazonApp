@@ -25,6 +25,13 @@ Use Android Studio and Clone the project from https://github.com/krishna97p/Orga
     implementation 'com.google.firebase:firebase-database:16.0.1'
     implementation 'com.firebaseui:firebase-ui-auth:4.1.0'
     implementation 'com.google.firebase:firebase-core:16.0.1'
+   
+# Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
+Contributer Team : Krishna Panchal, Pawndeep Kaur, Mandeep Kaur
 
+# License
+
+All rights reseved by Organ-Donation Team
 
 
